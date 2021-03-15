@@ -1,4 +1,4 @@
-# secure-mongodb
+# Setting up your Red Hat Marketplace Account and Registering your cluster
 This github repo is dedicated to show step-by-step prequisites for the tutorial: <a href="https://developer.ibm.com/tutorials/secure-mongo-db-enterprise-on-red-hat-openshift/">Secure MongoDB Enterprise on Red Hat OpenShift</a>. Before joining the workshop, make sure to create your Red Hat Marketplace account and to register your cluster in the Red Hat Marketplace to be able to follow along with the speakers.
 
 ## Preqrequisites
