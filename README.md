@@ -5,8 +5,8 @@ This github repo is dedicated to show step-by-step prequisites for the tutorial:
 - Sign up for your IBM Cloud account – https://ibm.biz/BdfsMb
 - Register for the live stream and access the replay – https://www.crowdcast.io/e/secure-mongodb
 - Red Hat OpenShift Cluster 4.4 on IBM Cloud. You can get it from
-  - URL:
-  - Key:
+  - URL: https://oc-mongodb.mybluemix.net
+  - Key: oslab
 - oc CLI (can be downloaded from <a href="https://mirror.openshift.com/pub/openshift-v4/clients/oc/4.5/">here</a> or you can use it at http://shell.cloud.ibm.com/.
 ## Create your Red Hat Marketplace Account
 - Go to https://marketplace.redhat.com/ and click create account if you don't have one already.
